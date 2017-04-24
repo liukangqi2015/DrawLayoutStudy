@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DrawLayoutStudy</string>
+    <string name="navigation_drawer_open">打开侧边栏</string>
+    <string name="navigation_drawer_close">关闭侧边栏</string>
+    <string name="news">资讯</string>
+    <string name="picture">图片</string>
+    <string-array name="nav_menu_titles">
+        <item>@string/news</item>
+        <item>@string/picture</item>
+    </string-array>
+</resources>
